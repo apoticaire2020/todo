@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Adnane
+Build-Jdk: 11.0.10
+Implementation-Title: todo-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.adnane.springboot-tuto
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/todo-api
+Created-By: Maven Integration for Eclipse
+
